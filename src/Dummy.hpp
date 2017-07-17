@@ -1,5 +1,5 @@
-#ifndef _DUMMYPROJECT_DUMMY_HPP_
-#define _DUMMYPROJECT_DUMMY_HPP_
+#ifndef _ANOTHER_PLAIN_PACKAGE_DUMMY_HPP_
+#define _ANOTHER_PLAIN_PACKAGE_DUMMY_HPP_
 
 namespace another_plain_package
 {
@@ -15,4 +15,4 @@ namespace another_plain_package
 
 } // end namespace another_plain_package
 
-#endif // _DUMMYPROJECT_DUMMY_HPP_
+#endif // _ANOTHER_PLAIN_PACKAGE_DUMMY_HPP_
